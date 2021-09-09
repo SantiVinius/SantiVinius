@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hello, I'm Vínius (yes, Vínius, not Vinicius)👋
 
-<!--
-**SantiVinius/SantiVinius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning web development technologies
+- 💪🏼 Goals: Study and learn a lot to get my first job as a dev.
+- ⚡ Fun fact: My second favorite area is sales.
 
-Here are some ideas to get you started:
+&nbsp; 
+--- 
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/SantiVinius/github-readme-stats">
+  <img height="190px" align="center" src="https://github-readme-stats.vercel.app/api?username=SantiVinius&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/SantiVinius/github-readme-stats">
+  <img height="190px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiVinius&layout=compact&theme=dark" />
+</a>
+
+
+
