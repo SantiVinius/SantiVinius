@@ -8,12 +8,6 @@
 --- 
 &nbsp;
 
-<a href="https://github.com/SantiVinius/github-readme-stats">
-  <img height="190px" align="center" src="https://github-readme-stats.vercel.app/api?username=SantiVinius&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/SantiVinius/github-readme-stats">
-  <img height="190px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiVinius&layout=compact&theme=dark" />
-</a>
-
+<img src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif?cid=ecf05e473dnce8cv6nsm7hw9uanpcn0y7wel2slygruj0hx4&rid=giphy.gif" width="500" height="190" />
 
 
