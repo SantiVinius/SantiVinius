@@ -1,4 +1,4 @@
-## Hello, I'm Vínius (yes, Vínius, not Vinicius)👋
+## Hello, I'm Vínius (yes, Vínius, not Vinicius hahaha)👋
 
 - 🌱 I’m currently learning web development technologies
 - 💪🏼 Goals: Study and learn a lot to get my first job as a dev.
