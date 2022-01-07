@@ -1,7 +1,8 @@
 ## Hello, I'm Vínius (yes, Vínius, not Vinicius hahaha)👋
 
 - 🌱 I’m currently learning web development technologies
-- 💪🏼 Goals: Study and learn a lot to get my first job as a dev.
+- 💪🏼 Goals: Study and learn a lot to get my first job as a dev 
+in 2022.
 - ⚡ Fun fact: My second favorite area is sales.
 
 ## I’m currently learning
