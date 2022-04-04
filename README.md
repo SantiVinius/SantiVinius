@@ -1,9 +1,9 @@
-## Hello, I'm Vínius (yes, Vínius, not Vinicius hahaha)👋
+## Hello, I'm Vínius 👋
 
-- 🌱 I’m currently learning web development technologies
-- 💪🏼 Goals: Study and learn a lot to get my first job as a dev 
+- 🌱 I’m currently learning web development technologies (ReactJS, Node, Typescript) 
+- 💪🏼 Goals: Study and learn a lot to get my first job as a jr dev 
 in 2022.
-- ⚡ Fun fact: My second favorite area is sales.
+- ⚡ Fun fact: My second favorite area is sales and marketing.
 
 ## I’m currently learning
 <div style="display: inline_block">
