@@ -1,8 +1,6 @@
 ## Hello, I'm Vínius 👋
 
-- 🌱 I’m currently learning web development technologies (ReactJS, Node, Typescript) 
-- 💪🏼 Goals: Study and learn a lot to get my first job as a jr dev 
-in 2022.
+- 🌱 Currently I work as a full stack dev at Grupo New Space
 - ⚡ Fun fact: My second favorite area is sales and marketing.
 
 ## I’m currently learning
