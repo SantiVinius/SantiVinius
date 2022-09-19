@@ -3,7 +3,7 @@
 - 🌱 Currently I work as a full stack dev at Grupo New Space
 - ⚡ Fun fact: My second favorite area is sales and marketing.
 
-## I’m currently learning
+## Technologies I work
 <div style="display: inline_block">
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
