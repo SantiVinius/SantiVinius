@@ -4,7 +4,7 @@
 - 📚 I can always learn other technologies if needed
 - ❤ Using technology to help people
 
-## Technologies I work
+## Some technologies and tools I work with
 <div style="display: inline_block">
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
