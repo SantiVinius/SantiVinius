@@ -1,7 +1,6 @@
 ## Hello, I'm Vínius 👋
 
-- 🌱 Currently I work as a full stack dev at Grupo New Space
-- ⚡ Fun fact: My second favorite area is sales and marketing.
+- 🌱 I'm a fullstack developer and I work with React.js, React Native and Node.js
 
 ## Technologies I work
 <div style="display: inline_block">
