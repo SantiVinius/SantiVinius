@@ -1,6 +1,6 @@
 ## Hello, I'm Vínius 👋
 
-- 🌱 I'm a fullstack developer and I work with React.js, React Native and Node.js
+- 🌱 I'm a fullstack developer, passionate about backend and working with Node.js, Typescript and React.js
 - 📚 I can always learn other technologies if needed
 - ❤ Using technology to help people
 
